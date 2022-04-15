@@ -3,7 +3,6 @@ pandas
 tensorflow
 matplotlib
 pandas_datareader
-keras
 streamlit
 scikit-learn
 pip
