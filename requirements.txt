@@ -1,10 +1,10 @@
 numpy
 pandas
+tensorflow
 matplotlib
 pandas_datareader
 keras
 streamlit
 scikit-learn
-scipy
 pip
-tensorflow
+
