@@ -1,6 +1,9 @@
-import numpy
-import pandas as pd
-import matplotlib.pyplot as plt
-import pandas_datareader as data
-from keras.models import load_model
-import streamlit as st
+numpy
+pandas
+matplotlib
+pandas_datareader
+keras
+streamlit
+scikit-learn
+scipy
+pip
