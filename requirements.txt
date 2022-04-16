@@ -1,9 +1,12 @@
-numpy
-pandas
+keras
 tensorflow
+numpy==1.13.0
+pandas
 matplotlib
+jupyterlab
 pandas_datareader
 streamlit
-scikit-learn
+scikit-learn == 0.22.1
+scipy >= 0.15.1
 pip
 
