@@ -7,8 +7,8 @@ jupyterlab
 pandas_datareader
 streamlit
 scikit-learn
-
+scipy>= 0.15.1
 dateutil
 cProfile
 datetime
-
+pip
