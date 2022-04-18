@@ -1,13 +1,13 @@
-tensorflow
-keras
+tensorflow==2.8.0
+keras==2.8.0
 numpy>= 1.9.0
 pandas>=0.19
 matplotlib
 jupyterlab
-pandas_datareader
-streamlit
+pandas-datareader==0.10.0
+streamlit==1.8.1
 scikit-learn
-scipy>= 0.15.1
+scipy==0.16.0
 dateutil
 cProfile
 datetime
