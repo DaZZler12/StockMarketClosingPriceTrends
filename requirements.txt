@@ -1,6 +1,15 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import pandas_datareader as data
-from keras.models import load_model
-import streamlit as st
+tensorflow
+keras
+numpy>= 1.9.0
+pandas>=0.19
+matplotlib
+jupyterlab
+pandas_datareader
+streamlit
+scikit-learn
+scipy >= 0.15.1
+dateutil
+cProfile
+datetime
+pip
+
