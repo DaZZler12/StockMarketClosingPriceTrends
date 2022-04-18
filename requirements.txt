@@ -11,5 +11,4 @@ scipy >= 0.15.1
 dateutil
 cProfile
 datetime
-pip
 
