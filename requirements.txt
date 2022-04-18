@@ -7,5 +7,5 @@ jupyterlab
 pandas-datareader==0.10.0
 streamlit==1.8.1
 scikit-learn
-scipy==0.16.0
+
 pip==22.0.4
