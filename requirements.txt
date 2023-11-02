@@ -8,4 +8,4 @@ pandas-datareader==0.10.0
 streamlit==1.11.1
 scikit-learn
 
-pip==22.0.4
+pip==23.3
