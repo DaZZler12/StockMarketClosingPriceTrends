@@ -5,7 +5,7 @@ pandas>=0.19
 matplotlib
 jupyterlab
 pandas-datareader==0.10.0
-streamlit==1.11.1
+streamlit==1.30.0
 scikit-learn
 
 pip==22.0.4
